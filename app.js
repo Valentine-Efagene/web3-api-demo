@@ -9,7 +9,6 @@ import winston from 'winston'
 import expressWinston from 'express-winston'
 import cors from 'cors'
 import debug from "debug"
-import Web3 from 'web3'
 
 import dotenv from 'dotenv';
 const dotenvResult = dotenv.config();
