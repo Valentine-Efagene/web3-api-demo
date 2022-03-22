@@ -1,0 +1,11 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "description": "The web3 part of this project. I'm separating it to prevent having to name module files as mjs",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentine Efagene",
+  "license": "ISC"
+}
