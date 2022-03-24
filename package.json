@@ -5,7 +5,7 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "start": "node --unhandled-rejections=strict app.js",
+    "start": "nodemon --unhandled-rejections=strict app.js",
     "debug": "set DEBUG=* && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
